@@ -11,8 +11,6 @@ RA: 1460281823049
 
  
 
-# 1ª Quinzena de maio
-  
 - 1: Problema:  
   
 <space><space>O problema principal a ser resolvido é a falta de combustível em veículos em vias mais isoladas.  
@@ -40,28 +38,10 @@ Pela aplicação o solicitante poderá realizar o pedido para abastecimento, o c
  - 4: Referências:  
    
 BRASIL POSTOS: 2008 Procedimentos de Operação em Postos de Combustíveis (Transcrição Parcial) Disponível em:  
-https://www.brasilpostos.com.br/artigos/normas-da-abnt/norma-abnt15594-1/ Acesso em: 26 set. 2017.  
+https://www.brasilpostos.com.br/artigos/normas-da-abnt/norma-abnt15594-1/ Acesso em: 19 fev. 2020.  
   
 BRASIL POSTOS: 2014 Forma avulsa de venda de combustíveis tem regras bem definidas Disponível em:  
 https://www.brasilpostos.com.br/noticias/equipamentos/galoes-e-bombonas/forma-avulsa-de-venda-de-combustiveis-tem-regras-bem-definidas/ Acesso em: 19 fev. 2020.  
   
 Paulo Roberto Ferreira: 2017 TRANSPORTE DE COMBUSTÍVEIS EM EMBALAGENS PORTÁTEIS (FORA DO TANQUE) Disponível em:  
 http://repositorio.roca.utfpr.edu.br/jspui/bitstream/1/11315/1/LD_CEEST_VI_2018_17.pdf Acesso em: 19 fev. 2020.  
-  
-
-# 2ª Quinzena de maio
-
- 
-
-
-# 1ª Quinzena de junho
- 
-
- 
-
-# 2ª Quinzena de junho
-
- 
-
-
-# 1ª Quinzena de julho
