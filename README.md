@@ -11,17 +11,17 @@ RA: 1460281823049
 
  
 
-- 1: Problema:  
+# 1: Problema:  
   
 <space><space>O problema principal a ser resolvido é a falta de combustível em veículos em vias mais isoladas.  
    
- - 2: Motivação:  
+# 2: Motivação:  
    
 A maioria das pessoas, não calculam a quantidade de combustível para o trajeto desejado e como resultado acabam ficando sem combustível no meio do caminho, chamado popularmente de pane seca (Brasil Postos, 2017). Durante a pane seca há diversos problemas envolvidos, um dos mais críticos é a segurança que pode variar de  acordo com o horário da pane e a movimentação da via. Devido a esta situação muitas pessoas utilizam reservatórios PEAD (Polietileno de alta densidade) para transportar combustível, o que não é aconselhado por não estar nos padrões exigidos pelo Inmetro (Brasil Postos, 2014).  
   
 O utilização da embalagem incorreta pode elevar o problema da pane seca devido aos perigos no transporte do combustível. O risco de uma carga estática gerar combustão no combustível contido no recipiente, ou o mesmo ser degradado devido a radiação ultravioleta danificando o veículo abastecido (Ferreira, 2017).  
   
- - 3: Proposta de Solução:  
+# 3: Proposta de Solução:  
    
 Atualmente não há um serviço disponível semelhante ao transporte de combustível para consumo individual. Este tipo de transporte muitas vezes é feito pelo próprio consumidor que majoritariamente não tem conhecimento das regulamentações exigidas na norma  ABNT NBR 15.594-1: 2008 para o transporte de combustível (Brasil Postos, 2014).  
   
@@ -35,7 +35,7 @@ A solução visa atuar através de uma aplicação para celulares, tornando mais
   
 Pela aplicação o solicitante poderá realizar o pedido para abastecimento, o colaborador mais próximo e disponível recebera o pedido e irá utilizar seu recipiente certificado pelo Inmetro para armazenar, transportar o combustível para o solicitante, ao chegar no destino o colaborador também irá realizar a tarefa de abastecer o veículo do solicitante, conforme o treinamento.  
   
- - 4: Referências:  
+# 4: Referências:  
    
 BRASIL POSTOS: 2008 Procedimentos de Operação em Postos de Combustíveis (Transcrição Parcial) Disponível em:  
 https://www.brasilpostos.com.br/artigos/normas-da-abnt/norma-abnt15594-1/ Acesso em: 19 fev. 2020.  
